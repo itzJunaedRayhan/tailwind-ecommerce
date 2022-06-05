@@ -781,12 +781,8 @@ h1, h2, h3, h4, h5, h6{
   max-height: 22rem;
 }
 
-.min-h-\[200px\]{
-  min-height: 200px;
-}
-
-.min-h-\[180px\]{
-  min-height: 180px;
+.min-h-\[130px\]{
+  min-height: 130px;
 }
 
 .min-h-screen{
@@ -1067,11 +1063,6 @@ h1, h2, h3, h4, h5, h6{
 
 .border-transparent{
   border-color: transparent;
-}
-
-.border-red-500{
-  --tw-border-opacity: 1;
-  border-color: rgb(239 68 68 / var(--tw-border-opacity));
 }
 
 .border-gray-700{
