@@ -16,6 +16,9 @@ module.exports = {
       },
       colors: {
         'primary': '#FD3D57'
+      },
+      backgroundImage: {
+        'linear-gradient' : "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('http://placehold.it/350x150')"
       }
     },
   },
